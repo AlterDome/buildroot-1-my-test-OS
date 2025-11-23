@@ -1,4 +1,6 @@
 pc_x86_64_bios_defconfig            - Build for pc_x86_64_bios
+
+
 pc_x86_64_efi_defconfig             - Build for pc_x86_64_efi
 
 # сохранение .config
